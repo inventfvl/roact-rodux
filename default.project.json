@@ -1,23 +1,16 @@
 {
-  "name": "RoactRodux",
+  "name": "roact-rodux",
   "tree": {
-    "$className": "Folder",
-    "Roact": {
-      "$path": "modules/roact/src",
-      ".luaurc": {
-          "$className": "StringValue",
-          "$path": "modules/.luaurc"
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "roact-rodux": {
+        "$path": "src",
+
+        "Packages": {
+          "$path": "Packages"
+        }
       }
-    },
-    "Rodux": {
-      "$path": "modules/rodux/src",
-      ".luaurc": {
-          "$className": "StringValue",
-          "$path": "modules/.luaurc"
-      }
-    },
-    "RoactRodux": {
-      "$path": "src"
     }
   }
 }

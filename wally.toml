@@ -1,0 +1,10 @@
+[package]
+name = "inventfvl/roact-rodux"
+version = "0.5.2"
+license = "Apache-2.0"
+registry = "https://github.com/upliftgames/wally-index"
+realm = "dev"
+
+[dependencies]
+Roact = "jsdotlua/roact-compat@17.0.2"
+Rodux = "roblox/rodux@3.0.0"
