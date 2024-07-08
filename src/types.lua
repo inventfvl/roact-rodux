@@ -1,5 +1,5 @@
 --!strict
-local Rodux = require(script.Parent.Parent.Rodux)
+local Rodux = require(script.Parent.Packages.Rodux)
 
 type Action = Rodux.Action<string>
 type ThunkAction<ReturnType, State> = Rodux.ThunkAction<ReturnType, State>

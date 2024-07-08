@@ -1,6 +1,6 @@
 [package]
 name = "inventfvl/roact-rodux"
-version = "0.5.3"
+version = "0.5.4"
 license = "Apache-2.0"
 registry = "https://github.com/upliftgames/wally-index"
 realm = "shared"
